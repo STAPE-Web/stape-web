@@ -2,7 +2,7 @@
 [![Header](https://github.com/STAPE-Web/stape-web/blob/main/assets/head.gif)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
 
 ## Description
-
+Hi, I'm Kirill, Frontend developer. I have been programming for 4 years. I work as a freelancer. I am 14 years old. Over the years I have made many sites.
 
 
 ## Languages and Tools
