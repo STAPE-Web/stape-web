@@ -4,6 +4,6 @@
 
 Latest YouTube Videos
 
-![https://img.shields.io/badge/-YouTube-<COLOR>?style=for-the-badge&logo=youtube]
+![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube)
 
 Follow Me
