@@ -2,10 +2,10 @@
 
 ## I'm a frontend developer
 
-Latest YouTube Videos
+## Latest YouTube Videos
 
-Languages and Tools
+## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 
-Follow Me
+## Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
