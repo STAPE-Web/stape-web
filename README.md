@@ -10,6 +10,12 @@
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![MYSQL](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop)
+![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
