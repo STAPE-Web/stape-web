@@ -23,5 +23,5 @@ Hi, I'm Kirill, Frontend developer. I have been programming for 4 years. I work 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
 [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen)](https://codepen.io/STAPE)
 [![TikTok](https://img.shields.io/badge/-Tiktok-090909?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@_stape_?lang=en-UK&is_copy_url=1&is_from_webapp=v1)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/STAPE_IT)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/+Hfd2Syn-En1lNmVi)
 [![Freelance](https://img.shields.io/badge/-Freelance-090909?style=for-the-badge&logo=kwork)](https://kwork.ru/user/kirill_kirilenko)
