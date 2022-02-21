@@ -34,7 +34,8 @@
 
 ---
 
-<a href="#">
+<p align="center">
+    <a href="#">
     <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5" alt="" />
 </a>
 <a href="#">
@@ -70,6 +71,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git" alt="" />
 </a>
+</p>
 
 <details>
     <summary>My GitHub stats</summary>
