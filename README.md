@@ -1,8 +1,6 @@
-<img transform="rotate(180deg)" src="./assets/rodape_readme.svg" alt="Art with MF logo (Matheus Felipe) to the top of readme.md" />
-
-<h2 align="center">
+<h1 align="center">
     Hi, Human 🖖
-</h2>
+</h1>
 
 <p align="center">
     <b>I'm Kirill, a developer passionate about this amazing world of technology.</b>
@@ -17,11 +15,21 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
-    [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w)
-    [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen)](https://codepen.io/STAPE)
-    [![Dribbble](https://img.shields.io/badge/-Dribbble-090909?style=for-the-badge&logo=dribbble)](https://dribbble.com/STAPE-Web)
-    [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/+Hfd2Syn-En1lNmVi)
-    [![Freelance](https://img.shields.io/badge/-Freelance-090909?style=for-the-badge&logo=kwork)](https://kwork.ru/user/kirill_kirilenko)
+   <a href="https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w" target="_blank">
+        <img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="" />
+    </a>
+    <a href="https://codepen.io/STAPE" target="_blank">
+        <img src="https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen" alt="" />
+    </a>
+    <a href="https://dribbble.com/STAPE-Web" target="_blank">
+        <img src="https://img.shields.io/badge/-Dribbble-090909?style=for-the-badge&logo=dribbble" alt="" />
+    </a>
+    <a href="https://t.me/+Hfd2Syn-En1lNmVi" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="" />
+    </a>
+    <a href="https://kwork.ru/user/kirill_kirilenko" target="_blank">
+        <img src="https://img.shields.io/badge/-Freelance-090909?style=for-the-badge&logo=kwork" alt="" />
+    </a>
 </p>
 
 ---
