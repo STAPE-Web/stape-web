@@ -73,8 +73,9 @@
 </a>
 </p>
 
-<details>
-    <summary>My GitHub stats</summary>
+---
+
+<h1>My GitHub stats</h1>
     <br />
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=stape-web&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
@@ -91,5 +92,4 @@
     <p align="center">
         <img src="https://activity-graph.herokuapp.com/graph?username=stape-web&theme=xcode&bg_color=151515" alt="Activity Graph" />
     </p>
-</details>
 
