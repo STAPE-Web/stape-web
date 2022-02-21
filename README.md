@@ -34,10 +34,10 @@
 
 ---
 
-<a>
+<a href="#">
     <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=264DE4" alt="" />
 </a>
 <a>
