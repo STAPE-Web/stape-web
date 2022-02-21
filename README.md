@@ -1,4 +1,4 @@
-<img style="transform: rotate(180deg);" src="./assets/rodape_readme.svg" alt="Art with MF logo (Matheus Felipe) to the top of readme.md" />
+<img transform="rotate(180deg)" src="./assets/rodape_readme.svg" alt="Art with MF logo (Matheus Felipe) to the top of readme.md" />
 
 <h2 align="center">
     Hi, Human 🖖
