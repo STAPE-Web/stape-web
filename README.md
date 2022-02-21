@@ -40,34 +40,34 @@
 <a href="#">
 <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=264DE4" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java" alt="" />
 </a>
-<a>
+<a href="#">
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git" alt="" />
 </a>
 
