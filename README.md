@@ -78,9 +78,6 @@
 <h1>My GitHub stats</h1>
     <br />
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=stape-web&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
-    </p>
-    <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=stape-web&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
     </p>
     <p align="center">
@@ -89,7 +86,5 @@
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stape-web&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
     </p>
-    <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=stape-web&theme=xcode&bg_color=151515" alt="Activity Graph" />
-    </p>
+
 
