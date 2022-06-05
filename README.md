@@ -81,9 +81,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=stape-web&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
     </p>
     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=stape-web&theme=dark" alt="Streak Stats" />
-    </p>
-    <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stape-web&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
     </p>
 
