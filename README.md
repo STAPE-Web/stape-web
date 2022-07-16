@@ -35,14 +35,14 @@
 ---
 
 <p align="center">
-    <a href="#">
-    <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5" alt="" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=264DE4" alt="" />
-</a>
 <a href="#">
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript" alt="" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript" alt="" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust" alt="" />
 </a>
 <a href="#">
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react" alt="" />
@@ -57,12 +57,6 @@
 <img src="https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma" alt="" />
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop" alt="" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender" alt="" />
-</a>
-<a href="#">
 <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="" />
 </a>
 <a href="#">
@@ -71,6 +65,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git" alt="" />
 </a>
+    
 </p>
 
 ---
