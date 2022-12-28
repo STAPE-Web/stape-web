@@ -27,9 +27,6 @@
     <a href="https://t.me/+Hfd2Syn-En1lNmVi" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="" />
     </a>
-    <a href="https://kwork.ru/user/kirill_kirilenko" target="_blank">
-        <img src="https://img.shields.io/badge/-Freelance-090909?style=for-the-badge&logo=kwork" alt="" />
-    </a>
 </p>
 
 ---
