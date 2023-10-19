@@ -24,6 +24,9 @@
     <a href="https://dribbble.com/STAPE-Web" target="_blank">
         <img src="https://img.shields.io/badge/-Dribbble-090909?style=for-the-badge&logo=dribbble" alt="" />
     </a>
+    <a href="https://t.me/STAPEweb" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram" alt="" />
+    </a>
 </p>
 
 ---
