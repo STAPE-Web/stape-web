@@ -15,9 +15,6 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
-   <a href="https://www.youtube.com/channel/UCpSg_NBPjrI5c-g1BPFWg_w" target="_blank">
-        <img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="" />
-    </a>
     <a href="https://codepen.io/STAPE" target="_blank">
         <img src="https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=codepen" alt="" />
     </a>
